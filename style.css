@@ -1,0 +1,15 @@
+body {
+  background-color:  yellow
+}
+
+p {
+  font-family:  courier new;
+  font-size:  14px;
+  color:  purple;
+}
+
+div {
+  background-color:  purple;
+  width:  400px;
+  color:  black
+}
